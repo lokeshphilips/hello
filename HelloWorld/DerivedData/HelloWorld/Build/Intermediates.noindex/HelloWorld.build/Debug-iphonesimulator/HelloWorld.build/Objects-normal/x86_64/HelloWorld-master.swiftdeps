@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "8ba492cbdc6271b14dcd40db3af547da"
+build_time: [1509011201, 890971000]
+inputs:
+  "/Users/Admin/hello/HelloWorld/HelloWorld/ViewController.swift": [1508929817, 0]
+  "/Users/Admin/hello/HelloWorld/HelloWorld/AppDelegate.swift": [1508923722, 0]
